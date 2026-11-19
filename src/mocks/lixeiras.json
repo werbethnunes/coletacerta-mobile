@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "local": "Praça General Polidoro",
+    "nivel": 92,
+    "ultimaLeitura": "Hoje, 08:10"
+  },
+  {
+    "id": 2,
+    "local": "Av. Lins de Vasconcelos, 1222",
+    "nivel": 81,
+    "ultimaLeitura": "Hoje, 08:05"
+  },
+  {
+    "id": 3,
+    "local": "Rua Muniz de Sousa, 450",
+    "nivel": 64,
+    "ultimaLeitura": "Hoje, 07:55"
+  },
+  {
+    "id": 4,
+    "local": "Av. da Aclimação, 300",
+    "nivel": 38,
+    "ultimaLeitura": "Hoje, 08:00"
+  },
+  {
+    "id": 5,
+    "local": "Rua Pires da Mota, 95",
+    "nivel": 12,
+    "ultimaLeitura": "Hoje, 07:40"
+  }
+]
